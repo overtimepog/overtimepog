@@ -11,7 +11,3 @@ I'm a developer passionate about game development, AI solutions, and automation.
 - **Technologies**: Flask, Selenium, Ghidra, Xcode
 - **Areas of Interest**: Procedural generation, automation, AI-enhanced productivity
 
-### Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- [Portfolio](https://yourportfolio.com)
-
