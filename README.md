@@ -1,6 +1,6 @@
 # Hi there, I'm Truen 👋
 
-I'm a developer passionate about game development, AI solutions, and automation. I work on projects involving **Python** mainly, some **Swift** and **Javascript** focusing on creating interactive games and productivity tools.
+I'm a developer passionate about game development, AI solutions, and automation. I work on projects involving **Python**, some **Swift** and some **Javascript** focusing on creating interactive games and productivity tools.
 
 ### Skills
 - **Languages**: Swift, Python, Java, JavaScript
