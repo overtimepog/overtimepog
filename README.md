@@ -39,7 +39,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=overtimepog&theme=tokyo-night&hide_border=true"/><br/>
-  <img src="https://raw.githubusercontent.com/overtimepog/overtimepog/output/github-contribution-grid-snake.svg" />
 </p>
 </details>
 
