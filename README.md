@@ -42,31 +42,108 @@ I'm a passionate developer specializing in AI systems and modern web interfaces!
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Development Tools
+![Claude Code](https://img.shields.io/badge/Claude_Code-5865F2?style=for-the-badge&logo=anthropic&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### AI Services & APIs
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-5865F2?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
 ### Deployment
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-## 🎯 What I'm Working On
+## 🎯 What I'm Best At
 
-- 🤖 Building AI-powered web applications with intuitive UIs
-- 🔗 Integrating LangChain and LlamaIndex for advanced RAG systems
-- 🎨 Creating beautiful, responsive interfaces for AI interactions
-- 🧪 Experimenting with the latest LLM models and frameworks
-- 📊 Developing data pipelines for AI training and inference
+<div align="left">
+  
+### 🚀 AI Engineering Excellence
+- **LLM Integration Mastery** - Seamlessly connecting Claude, GPT-4, Gemini, and 70+ models via OpenRouter
+- **Prompt Engineering** - Crafting sophisticated prompts that extract maximum value from AI models
+- **AI-First Development** - Building with Claude Code to accelerate development by 10x
+  
+### 💡 Full-Stack Innovation
+- **Rapid Prototyping** - From idea to deployed MVP in hours, not weeks
+- **Modern Web UIs** - React/Next.js interfaces that make AI accessible and beautiful
+- **API Architecture** - RESTful & GraphQL APIs optimized for AI workloads
+  
+### ⚡ Development Velocity
+- **AI-Powered Coding** - Leveraging Claude Code for intelligent code generation
+- **Multi-Model Strategies** - Choosing the right AI model for each specific task
+- **Automation Workflows** - Building self-improving systems with AI feedback loops
 
-## 📫 Let's Connect!
+</div>
 
-Feel free to reach out if you want to collaborate on something awesome!
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=overtimepog&theme=tokyonight&hide_border=true)
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=overtimepog&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  ![](https://github-profile-trophy.vercel.app/?username=overtimepog&theme=tokyonight&no-frame=true&row=1&column=7)
+  
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+  
+  ![](https://github-readme-activity-graph.vercel.app/graph?username=overtimepog&theme=tokyo-night&hide_border=true)
+  
+  ![Snake animation](https://github.com/overtimepog/overtimepog/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=overtimepog&repo=overtimepog&theme=tokyonight&hide_border=true)](https://github.com/overtimepog/overtimepog)
+  
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/truenpog)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/overtimepog)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/overtimepog)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:truen@overtimepog.com)
+  
+</div>
+
+<div align="center">
+  
+  💬 Feel free to reach out if you want to collaborate on AI-powered projects!
+  
+</div>
 
 ---
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=overtimepog&show_icons=true&theme=tokyonight)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=overtimepog&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=overtimepog&color=blueviolet&style=for-the-badge)
+  
+</div>
+
+<div align="center">
+  
+  ### 🌟 "Building the future with AI, one commit at a time" 🌟
   
 </div>
