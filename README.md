@@ -35,7 +35,7 @@
 </details>
 
 <details>
-<summary>📈 Activity Graph & Snake</summary>
+<summary>📈 Activity Graph</summary>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=overtimepog&theme=tokyo-night&hide_border=true"/><br/>
