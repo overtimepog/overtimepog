@@ -1,6 +1,6 @@
 # 🚀 Hi, I'm **Truen Pechter**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EFF&center=true&vCenter=true&width=400&lines=AI+Systems+Engineer+🧠;Web+UI+Developer+🎨;LLM+Integration+Expert+🔗)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EFF&center=true&vCenter=true&width=400&lines=AI+Systems+Engineer+🧠;LangGraph+Developer+💻;LLM+Integration+Expert+🔗)](https://git.io/typing-svg)
 
 ---
 
