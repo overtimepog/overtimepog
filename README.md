@@ -5,8 +5,8 @@
 ---
 
 ## 🌟 About Me
-- 🤖 **AI Systems & LLMs** – building end-to-end intelligent apps  
-- 🎨 **Modern Web UIs** – React / Next.js front-ends that feel snappy and look sharp  
+- 💻 **AI Systems & LLMs** – building end-to-end intelligent apps
+- 🤖 **AI Research** - advancing Attention and Optimizers with Claude Codes help
 - ⚡ **Automation** – orchestrating multi-model pipelines & self-improving workflows  
 
 ## 🛠 Tech Stack
