@@ -49,5 +49,3 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:tfpechter@gmail.com)
 
 ---
-
-<p align="center"><i>"Building the future with AI, one commit at a time."</i></p>
