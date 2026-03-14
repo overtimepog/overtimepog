@@ -29,7 +29,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=overtimepog&theme=tokyonight&hide_border=true" /><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=overtimepog&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=overtimepog&theme=tokyonight&no-frame=true&row=2&column=4" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=overtimepog&theme=tokyonight&no-frame=true&row=2&column=4" />
 </p>
 </details>
 
